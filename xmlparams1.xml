@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- BOF: ./templates/simple/business/photo_player_flash/xmlparams/show.body -->
+
+<!-- BOF: ./personal-templates/simple/generic/images -->
+<!-- Template Error: Function setValue has not been defined. -->
+<!-- EOF: ./personal-templates/simple/generic/images -->
+
+<images>
+
+<pic img="http://50.6.190.46/images/400958_288385454553209_148927741832315_840955_744616811_n.jpg" preview="images/thumbs/400958_288385454553209_148927741832315_840955_744616811_n.jpg.jpg" comment="Germantown Modeled Kitchen"/>
+
+<pic img="http://50.6.190.46/images/397076_288390654552689_148927741832315_840969_1973291691_n.jpg" preview="images/thumbs/397076_288390654552689_148927741832315_840969_1973291691_n.jpg.jpg" comment="Germantown Remodeled Master Bath"/>
+
+<pic img="http://50.6.190.46/images/400958_288385471219874_148927741832315_840957_1282760302_n.jpg" preview="images/thumbs/400958_288385471219874_148927741832315_840957_1282760302_n.jpg.jpg" comment="Germantown Remodeled Master Bath"/>
+
+<pic img="http://50.6.190.46/images/418377_298029156922172_148927741832315_864256_1803589169_n.jpg" preview="images/thumbs/418377_298029156922172_148927741832315_864256_1803589169_n.jpg.jpg" comment="Germantown Remodeled Half Bath"/>
+
+<pic img="http://50.6.190.46/images/400958_288385497886538_148927741832315_840959_1264477130_n.jpg" preview="images/thumbs/400958_288385497886538_148927741832315_840959_1264477130_n.jpg.jpg" comment="Exterior Upgrades"/>
+
+<pic img="http://50.6.190.46/images/400958_288385484553206_148927741832315_840958_130367843_n.jpg" preview="images/thumbs/400958_288385484553206_148927741832315_840958_130367843_n.jpg.jpg" comment="Remodeled Dining Room"/>
+
+<pic img="http://50.6.190.46/images/Cordova Bathroom 048.JPG" preview="images/thumbs/Cordova Bathroom 048.JPG.jpg" comment="Cordova Bathroom Addition - Exterior (Before)"/>
+
+<pic img="http://50.6.190.46/images/Cordova Bathroom 079.JPG" preview="images/thumbs/Cordova Bathroom 079.JPG.jpg" comment="Cordova Bathroom Addition - Exterior (After)"/>
+
+<pic img="http://50.6.190.46/images/Cordova Bathroom 082.JPG" preview="images/thumbs/Cordova Bathroom 082.JPG.jpg" comment="Cordova Bathroom Addition - Interior (After)"/>
+
+<pic img="http://50.6.190.46/images/Cordova Bathroom 081.JPG" preview="images/thumbs/Cordova Bathroom 081.JPG.jpg" comment="Cordova Bathroom Addition - Interior (After)"/>
+
+<pic img="http://50.6.190.46/images/bathroom red.bmp" preview="images/thumbs/bathroom red.bmp.jpg" comment="Cordova Bathroom Addition - Interior (After)"/>
+
+<pic img="http://50.6.190.46/images/MAPLEWOOD HOUSE014.JPG" preview="images/thumbs/MAPLEWOOD HOUSE014.JPG.jpg" comment="Garage to Den with Built in Window Seats"/>
+
+<pic img="http://50.6.190.46/images/MAPLEWOOD HOUSE008.JPG" preview="images/thumbs/MAPLEWOOD HOUSE008.JPG.jpg" comment="Garage to Den"/>
+
+<pic img="http://50.6.190.46/images/MAPLEWOOD HOUSE010.JPG" preview="images/thumbs/MAPLEWOOD HOUSE010.JPG.jpg" comment="Garage to Den - Opening Up to Living Room"/>
+
+<pic img="http://50.6.190.46/images/PDRM0004.JPG" preview="images/thumbs/PDRM0004.JPG.jpg" comment="Midtown Office/Artist Worshop"/>
+
+<pic img="http://50.6.190.46/images/PDRM0007.JPG" preview="images/thumbs/PDRM0007.JPG.jpg" comment="Midtown Office/Artist Worshop"/>
+
+<pic img="http://50.6.190.46/images/PDRM0005.JPG" preview="images/thumbs/PDRM0005.JPG.jpg" comment="Midtown Office/Artist Worshop"/>
+
+<pic img="http://50.6.190.46/images/PDRM0008.JPG" preview="images/thumbs/PDRM0008.JPG.jpg" comment="Midtown Office/Artist Worshop"/>
+
+<pic img="http://50.6.190.46/images/PDRM0013.jpg" preview="images/thumbs/PDRM0013.jpg.jpg" comment="Room Addition &amp; Porch"/>
+
+<pic img="http://50.6.190.46/images/PDRM0029.jpg" preview="images/thumbs/PDRM0029.jpg.jpg" comment="Room Addition &amp; Porch"/>
+
+<pic img="http://50.6.190.46/images/PDRM0033.jpg" preview="images/thumbs/PDRM0033.jpg.jpg" comment="Room Addition &amp; Porch"/>
+
+<pic img="http://50.6.190.46/images/PDRM0090.jpg" preview="images/thumbs/PDRM0090.jpg.jpg" comment="Room Addition &amp; Porch"/>
+
+<pic img="http://50.6.190.46/images/PDRM0131.JPG" preview="images/thumbs/PDRM0131.JPG.jpg" comment="Room Addition &amp; Porch"/>
+
+<pic img="http://50.6.190.46/images/PDRM0115.JPG" preview="images/thumbs/PDRM0115.JPG.jpg" comment="Room Addition &amp; Porch - Interior"/>
+
+<pic img="http://50.6.190.46/images/PDRM0040.jpg" preview="images/thumbs/PDRM0040.jpg.jpg" comment="Covered Patio"/>
+
+<pic img="http://50.6.190.46/images/PDRM0043.jpg" preview="images/thumbs/PDRM0043.jpg.jpg" comment="Covered Patio"/>
+
+<pic img="http://50.6.190.46/images/PDRM0045.jpg" preview="images/thumbs/PDRM0045.jpg.jpg" comment="Covered Patio"/>
+
+<pic img="http://50.6.190.46/images/PDRM0071.jpg" preview="images/thumbs/PDRM0071.jpg.jpg" comment="Screened Porch"/>
+
+<pic img="http://50.6.190.46/images/PDRM0073.jpg" preview="images/thumbs/PDRM0073.jpg.jpg" comment="Screened Porch"/>
+
+<pic img="http://50.6.190.46/images/PDRM0077.jpg" preview="images/thumbs/PDRM0077.jpg.jpg" comment="Screened Porch"/>
+
+<pic img="http://50.6.190.46/images/PDRM0082.jpg" preview="images/thumbs/PDRM0082.jpg.jpg" comment="Screened Porch"/>
+
+<pic img="http://50.6.190.46/images/Glendale Cv.JPG" preview="images/thumbs/Glendale Cv.JPG.jpg" comment="Mother-In-Law Suite Addition"/>
+
+<pic img="http://50.6.190.46/images/kitchen tear out004.JPG" preview="images/thumbs/kitchen tear out004.JPG.jpg" comment="Floor Tiles"/>
+
+<pic img="http://50.6.190.46/images/exterior.bmp" preview="images/thumbs/exterior.bmp.jpg" comment="Exterior Curb Appeal"/>
+
+<pic img="http://50.6.190.46/images/n1201821535_30118981_9731.jpg" preview="images/thumbs/n1201821535_30118981_9731.jpg.jpg" comment="Decks"/>
+
+<pic img="http://50.6.190.46/images/n1201821535_30118983_200.jpg" preview="images/thumbs/n1201821535_30118983_200.jpg.jpg" comment="Decks"/>
+
+<pic img="http://50.6.190.46/images/n1201821535_30118984_434.jpg" preview="images/thumbs/n1201821535_30118984_434.jpg.jpg" comment="Decks"/>
+
+<pic img="http://50.6.190.46/images/PDRM0192.jpg" preview="images/thumbs/PDRM0192.jpg.jpg" comment="Decks"/>
+
+<pic img="http://50.6.190.46/images/PDRM0290.jpg" preview="images/thumbs/PDRM0290.jpg.jpg" comment="Decks"/>
+
+<pic img="http://50.6.190.46/images/PDRM0398.jpg" preview="images/thumbs/PDRM0398.jpg.jpg" comment="House Exterior (Before)"/>
+
+<pic img="http://50.6.190.46/images/PDRM0414.jpg" preview="images/thumbs/PDRM0414.jpg.jpg" comment="House Exterior (Before)"/>
+
+<pic img="http://50.6.190.46/images/PDRM0477.JPG" preview="images/thumbs/PDRM0477.JPG.jpg" comment="House Exterior (After)"/>
+
+<pic img="http://50.6.190.46/images/PDRM0479.JPG" preview="images/thumbs/PDRM0479.JPG.jpg" comment="House Exterior (After)"/>
+
+
+</images>
+<!-- EOF: ./templates/simple/business/photo_player_flash/xmlparams/show.body -->
+
