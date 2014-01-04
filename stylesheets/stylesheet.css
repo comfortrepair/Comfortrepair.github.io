@@ -317,6 +317,10 @@ footer {
   color: #aaa;
 }
 
+
+
+
+
 footer a {
   color: #666;
 }
@@ -336,6 +340,22 @@ footer a:hover {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+.MsoNormal{
+color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* #Media Queries
 ================================================== */
