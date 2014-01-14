@@ -21,6 +21,71 @@
 border:1px solid black;
 }
 
+.menu_button_tile {
+background: url(widgets/gen_244.1.gif) #E2E6D7;
+background-repeat:repeat-y;
+}
+
+.menu_tile {
+background: url(widgets/gen_242.1.gif) #E2E6D7;
+background-repeat:repeat-y;
+}
+
+.foto_right {
+background: url(widgets/gen_148.1.gif) #E2E6D7;
+background-repeat: repeat-x;
+}
+
+
+ .body{
+  background-color: white;
+  margin-left:0;
+  margin-top:0;
+  margin-right:0;
+  margin-bottom:0;	
+  
+  	
+}
+.table{
+  vertical-align: top;
+}
+
+
+
+
+.t_height{
+height:100%;
+}
+
+.amaz_title {background:gray;}
+.amaz_td {background:#dddddd;}
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* #Media Queries
 ================================================== */
